@@ -5,15 +5,15 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2024-05-26T00:04:41.870Z",
-    "end": "2024-05-26T00:04:43.004Z",
-    "duration": 1134
+    "start": "2025-11-19T18:08:44.283Z",
+    "end": "2025-11-19T18:08:44.670Z",
+    "duration": 387
   },
   "tests": [
     {
       "title": "should change the text on the page when DOM content has loaded",
       "fullTitle": "index.js should change the text on the page when DOM content has loaded",
-      "duration": 9,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     }
@@ -24,7 +24,7 @@
     {
       "title": "should change the text on the page when DOM content has loaded",
       "fullTitle": "index.js should change the text on the page when DOM content has loaded",
-      "duration": 9,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     }
